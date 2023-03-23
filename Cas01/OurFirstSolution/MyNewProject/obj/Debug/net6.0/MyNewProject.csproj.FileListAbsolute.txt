@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\bin\Debug\net6.0\MyNewProject.exe
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\bin\Debug\net6.0\MyNewProject.deps.json
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\bin\Debug\net6.0\MyNewProject.runtimeconfig.json
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\bin\Debug\net6.0\MyNewProject.dll
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\bin\Debug\net6.0\MyNewProject.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.csproj.AssemblyReference.cache
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.AssemblyInfo.cs
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.dll
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\obj\Debug\net6.0\refint\MyNewProject.dll
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\obj\Debug\net6.0\MyNewProject.genruntimeconfig.cache
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas01\OurFirstSolution\MyNewProject\obj\Debug\net6.0\ref\MyNewProject.dll

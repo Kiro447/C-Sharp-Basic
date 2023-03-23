@@ -1,0 +1,15 @@
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\bin\Debug\net6.0\ClassCodeClasses.exe
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\bin\Debug\net6.0\ClassCodeClasses.deps.json
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\bin\Debug\net6.0\ClassCodeClasses.runtimeconfig.json
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\bin\Debug\net6.0\ClassCodeClasses.dll
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\bin\Debug\net6.0\ClassCodeClasses.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\obj\Debug\net6.0\ClassCodeClasses.csproj.AssemblyReference.cache
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\obj\Debug\net6.0\ClassCodeClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\obj\Debug\net6.0\ClassCodeClasses.AssemblyInfoInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\obj\Debug\net6.0\ClassCodeClasses.AssemblyInfo.cs
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\obj\Debug\net6.0\ClassCodeClasses.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\obj\Debug\net6.0\ClassCodeClasses.dll
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\obj\Debug\net6.0\refint\ClassCodeClasses.dll
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\obj\Debug\net6.0\ClassCodeClasses.pdb
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\obj\Debug\net6.0\ClassCodeClasses.genruntimeconfig.cache
+C:\Users\code\Desktop\SEDC\CSharp-Basic\Cas05\ClassCodeClasses\ClassCodeClasses\obj\Debug\net6.0\ref\ClassCodeClasses.dll
